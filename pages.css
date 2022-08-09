@@ -1,0 +1,15 @@
+.header{
+    font-family: 'Caveat';
+    color:rgb(186, 177, 177);
+    font-size:70;
+}
+
+body{
+    background-color: #ff2b2b  ;
+}
+
+canvas{
+    border-radius:30px;
+    box-shadow: rgb(91, 0, 0) 30px 20px;
+   
+}
